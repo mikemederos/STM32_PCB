@@ -3536,7 +3536,7 @@
     (pin "1" (uuid 25b8f3bb-d543-4e3c-9cab-40790092ed0d))
     (pin "2" (uuid 1be78221-3928-4a0f-b958-0f9dce3cd704))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "D3") (unit 1)
         )
@@ -3564,7 +3564,7 @@
     (pin "3" (uuid 23bb1e40-ea7f-4542-b1ab-d48340ed4193))
     (pin "4" (uuid a199e571-fc7c-44a7-92b8-2918561c9601))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "J2") (unit 1)
         )
@@ -3589,7 +3589,7 @@
     )
     (pin "1" (uuid 8828118b-4680-46f9-a21d-feb297efc355))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR08") (unit 1)
         )
@@ -3615,7 +3615,7 @@
     (pin "1" (uuid b7cbde55-7237-42ed-a076-16677c9dec39))
     (pin "2" (uuid ba988aeb-1cd0-41ad-885a-0afbd72729da))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C9") (unit 1)
         )
@@ -3640,7 +3640,7 @@
     )
     (pin "1" (uuid 8e19ea13-9aa4-4355-83f2-822b9dba9fac))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR014") (unit 1)
         )
@@ -3665,7 +3665,7 @@
     )
     (pin "1" (uuid cdcfa4a5-f297-4e40-a6a6-918f59582d0f))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR019") (unit 1)
         )
@@ -3690,7 +3690,7 @@
     )
     (pin "1" (uuid 9987db93-d6a9-4c9a-91c6-49533f686501))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR022") (unit 1)
         )
@@ -3720,7 +3720,7 @@
     (pin "5" (uuid 2fcfbe24-ce93-4cbf-b2af-a79722a7c544))
     (pin "6" (uuid 535a0f0b-cce4-488f-bbcc-42a85ed4aa17))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "J1") (unit 1)
         )
@@ -3746,7 +3746,7 @@
     (pin "1" (uuid 3b810514-5560-4dcd-9fbc-2da0a883dffe))
     (pin "2" (uuid 33d88ae4-2d4d-4b66-acac-d81a2c6b0287))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "R1") (unit 1)
         )
@@ -3771,7 +3771,7 @@
     )
     (pin "1" (uuid 035113cd-079c-423a-a25e-6142951f3643))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR038") (unit 1)
         )
@@ -3797,7 +3797,7 @@
     (pin "1" (uuid a4442618-e65e-4d1f-a778-2810b23c7ff2))
     (pin "2" (uuid 4f550689-979d-4753-92a6-756a0a3dc774))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C24") (unit 1)
         )
@@ -3822,7 +3822,7 @@
     )
     (pin "1" (uuid 6d4e654c-b0ff-45e0-9904-f0b3e07d00be))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR024") (unit 1)
         )
@@ -3880,7 +3880,7 @@
     (pin "7" (uuid 0f3b75fa-1701-489a-bbe1-482c328c35b6))
     (pin "8" (uuid 2866c418-c933-4028-a1fc-0f9a4ecfdd44))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "U4") (unit 1)
         )
@@ -3905,7 +3905,7 @@
     )
     (pin "1" (uuid 5cb41f2a-950f-4b8e-a1ad-6ef01b114911))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR027") (unit 1)
         )
@@ -3930,7 +3930,7 @@
     )
     (pin "1" (uuid 8bb2cfa7-a263-47e0-a807-4e4353699d6e))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR05") (unit 1)
         )
@@ -3958,7 +3958,7 @@
     (pin "3" (uuid eff4cd35-598c-4ebb-a1de-03e667c8c741))
     (pin "4" (uuid a0ce33a8-8d70-4d30-93e1-125acf3df21c))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "J3") (unit 1)
         )
@@ -3984,7 +3984,7 @@
     (pin "1" (uuid 4c409dc6-dafa-48d9-9f47-58d5cf483ab8))
     (pin "2" (uuid 7e172801-5bec-4f9a-b864-3f1390fb7a36))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C3") (unit 1)
         )
@@ -4009,7 +4009,7 @@
     )
     (pin "1" (uuid f490c999-3aaf-49bc-9682-691faae9b46d))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR015") (unit 1)
         )
@@ -4035,7 +4035,7 @@
     (pin "1" (uuid f3785c7e-89aa-4af3-82b1-1f0eae12f08e))
     (pin "2" (uuid ace70d16-0e36-4b78-88a9-dfc57068d461))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "R6") (unit 1)
         )
@@ -4060,7 +4060,7 @@
     )
     (pin "1" (uuid b590a6f1-ddfd-411f-8dc1-bbab391a3e9c))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR018") (unit 1)
         )
@@ -4086,7 +4086,7 @@
     (pin "1" (uuid 865f7670-3323-465c-b112-1cda54295e04))
     (pin "2" (uuid 56b10da8-e7ce-41ed-9bae-450be07eadd4))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C7") (unit 1)
         )
@@ -4112,7 +4112,7 @@
     (pin "1" (uuid 2db7d989-4c35-4dbf-9386-f04a459800fe))
     (pin "2" (uuid 88dd920d-045b-4754-9420-929c0b149ecb))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C1") (unit 1)
         )
@@ -4137,7 +4137,7 @@
     )
     (pin "1" (uuid f01702ba-f338-4316-9a0c-1c9199d66612))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR016") (unit 1)
         )
@@ -4163,7 +4163,7 @@
     (pin "1" (uuid 2f0a080e-fb04-46b8-9d43-d63ccb32fefb))
     (pin "2" (uuid 17846064-bb7a-4971-9020-724c6553549c))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "R7") (unit 1)
         )
@@ -4189,7 +4189,7 @@
     (pin "1" (uuid 670adb0c-0de8-4e33-8b0a-c0f0d7f49f24))
     (pin "2" (uuid 9e45097d-607f-4911-8cc8-4ed18a38937a))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C23") (unit 1)
         )
@@ -4214,7 +4214,7 @@
     )
     (pin "1" (uuid a26e35bb-d232-4a54-b407-8fe6391f161d))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR039") (unit 1)
         )
@@ -4240,7 +4240,7 @@
     (pin "1" (uuid f22e2857-7e51-49f1-964e-aeb450a4af5e))
     (pin "2" (uuid f6481a76-a8b2-4d52-a1b2-050d66b2bd99))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "R2") (unit 1)
         )
@@ -4265,7 +4265,7 @@
     )
     (pin "1" (uuid 1f33f40e-ee06-4f8b-9e27-aba0bf675edd))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR025") (unit 1)
         )
@@ -4290,7 +4290,7 @@
     )
     (pin "1" (uuid cb3b6f16-0b20-4ae9-bbdf-4e5db04a4770))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR017") (unit 1)
         )
@@ -4315,7 +4315,7 @@
     )
     (pin "1" (uuid 1af40efa-f09d-4260-9db9-a3ebc93b7fc9))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR021") (unit 1)
         )
@@ -4340,7 +4340,7 @@
     )
     (pin "1" (uuid 722969df-0f9f-48e5-b175-744af7d79b48))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR023") (unit 1)
         )
@@ -4365,7 +4365,7 @@
     )
     (pin "1" (uuid 1e6273ef-5ce8-4ca9-ad47-71eb2d18e6d3))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR026") (unit 1)
         )
@@ -4391,7 +4391,7 @@
     (pin "1" (uuid d61871fc-bcbc-4f68-8c99-a22497e38985))
     (pin "2" (uuid d94124f5-97b3-4f7f-9e5f-49d85e175d58))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C16") (unit 1)
         )
@@ -4417,7 +4417,7 @@
     (pin "1" (uuid a23e46ab-0730-4abb-bc03-bb292782aa8f))
     (pin "2" (uuid e97df62d-ef04-4737-8632-be9a2f864884))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C11") (unit 1)
         )
@@ -4442,7 +4442,7 @@
     )
     (pin "1" (uuid c441ef53-d5f5-428b-b383-9aaa4f03266d))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR042") (unit 1)
         )
@@ -4468,7 +4468,7 @@
     (pin "1" (uuid 5092fc6f-fdc4-4322-aa27-1b5296ec87c4))
     (pin "2" (uuid b9c7eb7c-0ca9-4f4d-8319-edf2546e200f))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C14") (unit 1)
         )
@@ -4493,7 +4493,7 @@
     )
     (pin "1" (uuid e9dfdda0-73e4-4635-92da-eebfb20346d7))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR09") (unit 1)
         )
@@ -4519,7 +4519,7 @@
     (pin "1" (uuid 3f487a78-f114-4a28-be85-6a4c51132c3d))
     (pin "2" (uuid fcba1083-263f-4cb4-8e2f-4dc772ee7112))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C15") (unit 1)
         )
@@ -4544,7 +4544,7 @@
     )
     (pin "1" (uuid 837b82f4-466d-42bf-a04d-d5b37beffbb1))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR037") (unit 1)
         )
@@ -4569,7 +4569,7 @@
     )
     (pin "1" (uuid 64486256-198f-425e-a7f6-7b326732fe38))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR036") (unit 1)
         )
@@ -4594,7 +4594,7 @@
     )
     (pin "1" (uuid b76f9751-b218-411b-9953-54818206ad82))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR012") (unit 1)
         )
@@ -4620,7 +4620,7 @@
     (pin "1" (uuid 238017b1-930b-416c-b558-901408ad6839))
     (pin "2" (uuid 75b4b249-7c05-468b-963c-ab18e8646545))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "FB1") (unit 1)
         )
@@ -4645,7 +4645,7 @@
     )
     (pin "1" (uuid a1939ca3-efeb-4276-9864-f7bb5aadc589))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR011") (unit 1)
         )
@@ -4671,7 +4671,7 @@
     (pin "1" (uuid 3bf42c3b-b63e-4f61-abd1-012cd62970ed))
     (pin "2" (uuid c803e776-9c83-4229-9ca3-4b3f68d0204d))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C8") (unit 1)
         )
@@ -4696,7 +4696,7 @@
     )
     (pin "1" (uuid 7892ed32-2d5b-4ead-ab6f-a7d093facfbc))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR03") (unit 1)
         )
@@ -4723,7 +4723,7 @@
     (pin "2" (uuid 9fd4d4a9-c4d0-49f8-a538-4ed12471ff03))
     (pin "3" (uuid 9440ccc4-9d7b-4d45-a843-44ad6b0da075))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "U5") (unit 1)
         )
@@ -4748,7 +4748,7 @@
     )
     (pin "1" (uuid b9285368-ed75-4826-9c4f-2b2ea9aca449))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR035") (unit 1)
         )
@@ -4773,7 +4773,7 @@
     )
     (pin "1" (uuid b950a6ec-3d48-4307-8d01-4ff308b1d442))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR06") (unit 1)
         )
@@ -4798,7 +4798,7 @@
     )
     (pin "1" (uuid 034c82e2-db4d-4475-b2fd-21bd574fe43a))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR040") (unit 1)
         )
@@ -4823,7 +4823,7 @@
     )
     (pin "1" (uuid b0333fd8-fbaa-4182-af41-8a5730043c46))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR034") (unit 1)
         )
@@ -4863,7 +4863,7 @@
     (pin "8" (uuid 3169c01d-78ed-42e4-aa38-dbb52acd5fcc))
     (pin "9" (uuid 8db3a4df-cdaa-41d9-b53d-652f3843ffab))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "U6") (unit 1)
         )
@@ -4889,7 +4889,7 @@
     (pin "1" (uuid e92f3f57-1abc-4573-a360-9a5511abb854))
     (pin "2" (uuid b574a547-ceef-4288-8108-9b9430cb96c4))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C10") (unit 1)
         )
@@ -4916,7 +4916,7 @@
     (pin "2" (uuid cbc0ef37-8e0d-4e68-976d-6063d31de9b1))
     (pin "3" (uuid 5ecefbe7-2bb2-4b32-87a1-302307b87239))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "SW1") (unit 1)
         )
@@ -4942,7 +4942,7 @@
     (pin "1" (uuid 49290a4c-64a6-45a2-9a49-697f06a2882b))
     (pin "2" (uuid f3b28707-ed7c-4dc1-93ec-9144c6f7898b))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C12") (unit 1)
         )
@@ -4968,7 +4968,7 @@
     (pin "1" (uuid 417b52f5-ca6f-4f9f-8fbd-5adc8a688b2f))
     (pin "2" (uuid ce0926fc-038e-468e-aa42-8f333eca721b))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C6") (unit 1)
         )
@@ -4993,7 +4993,7 @@
     )
     (pin "1" (uuid b818adf5-7160-459b-89b2-48b7318e4add))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR030") (unit 1)
         )
@@ -5084,7 +5084,7 @@
     (pin "6" (uuid 957edb21-7c4e-49c4-8fca-17a5593dfb5c))
     (pin "7" (uuid 406823ca-de4a-4557-9818-0e79047c274d))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "J6") (unit 1)
         )
@@ -5109,7 +5109,7 @@
     )
     (pin "1" (uuid 531b2798-df56-4662-81a8-6e920c6c438e))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR07") (unit 1)
         )
@@ -5135,7 +5135,7 @@
     (pin "1" (uuid cdef373f-493f-4042-8298-3672f8885035))
     (pin "2" (uuid 4ea3c771-f6e3-41d3-b8ad-2561ed9496d2))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C4") (unit 1)
         )
@@ -5160,7 +5160,7 @@
     )
     (pin "1" (uuid 33e76a04-0b52-48b8-8f30-046f72b5f2c7))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR010") (unit 1)
         )
@@ -5185,7 +5185,7 @@
     )
     (pin "1" (uuid e7e967f4-5c84-4291-90e4-7d42d539adbd))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR020") (unit 1)
         )
@@ -5210,7 +5210,7 @@
     )
     (pin "1" (uuid defb7ad7-d14a-4269-96db-143159e98a9d))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR031") (unit 1)
         )
@@ -5236,7 +5236,7 @@
     (pin "1" (uuid 41230b3e-751d-48e0-9a86-1dd7eab574e6))
     (pin "2" (uuid bdffed20-1759-46f9-84ae-52080f881ff5))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C17") (unit 1)
         )
@@ -5261,7 +5261,7 @@
     )
     (pin "1" (uuid e675c95b-e5f2-4a9d-b1ad-555ff77d5ff7))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR02") (unit 1)
         )
@@ -5286,7 +5286,7 @@
     )
     (pin "1" (uuid ca8bcb76-5a5b-4c20-9c8d-9db0505aaf08))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR04") (unit 1)
         )
@@ -5311,7 +5311,7 @@
     )
     (pin "1" (uuid 0f229a1b-461a-4fce-8bc2-62969ea8aff1))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR013") (unit 1)
         )
@@ -5338,7 +5338,7 @@
     (pin "2" (uuid b881cfee-fd5f-4ef6-90c7-7722e02f90db))
     (pin "3" (uuid e455ec8c-a8c7-4155-b226-7e416985651f))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "U3") (unit 1)
         )
@@ -5429,7 +5429,7 @@
     (pin "6" (uuid a09a588e-3795-4b59-8bcc-c16ffd3a9f9c))
     (pin "7" (uuid 6d42229e-24ce-4153-828c-bd2f004f0b75))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "J4") (unit 1)
         )
@@ -5469,7 +5469,7 @@
     (pin "8" (uuid 8a087936-9dc2-4a0e-af08-4b1c767ee3d3))
     (pin "9" (uuid 6baf655b-c3d2-470b-be57-b8ab6effc816))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "U2") (unit 1)
         )
@@ -5501,7 +5501,7 @@
     (pin "1" (uuid acfd077a-12df-439c-9486-c33c5f584a0c))
     (pin "2" (uuid 0642c333-fc9d-4ad4-865d-e6db881afe6e))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "D1") (unit 1)
         )
@@ -5573,7 +5573,7 @@
     (pin "8" (uuid a3bd4373-8d06-4991-b68f-4cf9b6e7fa03))
     (pin "9" (uuid 08dcc75b-88f2-4dc2-a867-4b14e109dbc0))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "U1") (unit 1)
         )
@@ -5598,7 +5598,7 @@
     )
     (pin "1" (uuid 307dd192-eb05-4600-b66c-f24ce725c008))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR033") (unit 1)
         )
@@ -5624,7 +5624,7 @@
     (pin "1" (uuid b2b3e65c-056f-4b28-9f58-9b3f45717578))
     (pin "2" (uuid 426f2cf3-9280-4a07-b760-74b025b25292))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "D2") (unit 1)
         )
@@ -5650,7 +5650,7 @@
     (pin "1" (uuid 8faff165-3707-4905-858a-f4df8cd65ef5))
     (pin "2" (uuid 98cabc86-f7f8-4758-852d-bcbec12f2704))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "R4") (unit 1)
         )
@@ -5676,7 +5676,7 @@
     (pin "1" (uuid 80e70ea9-ec7a-4210-82e2-9f750d4945cf))
     (pin "2" (uuid 562f174b-6554-4683-8851-8970f57cb172))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C2") (unit 1)
         )
@@ -5704,7 +5704,7 @@
     (pin "3" (uuid 1a55548c-1c79-4b47-a6a1-1a25ee500534))
     (pin "4" (uuid fcf87e7e-7a50-41c8-8592-75cbecb0fdcc))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "Y1") (unit 1)
         )
@@ -5730,7 +5730,7 @@
     (pin "1" (uuid c410c5f1-3a8c-4d87-84df-d631a0a6c94d))
     (pin "2" (uuid 31375459-278a-4660-a7ea-139af3a543c3))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "R5") (unit 1)
         )
@@ -5755,7 +5755,7 @@
     )
     (pin "1" (uuid fee3631a-94fe-4878-8076-b79aeb573737))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR032") (unit 1)
         )
@@ -5781,7 +5781,7 @@
     (pin "1" (uuid 853afcb9-d682-4e57-a2f1-6fcfa1d2d60f))
     (pin "2" (uuid e9bb56b9-204d-45c5-8b42-5d88416984aa))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "C5") (unit 1)
         )
@@ -5806,7 +5806,7 @@
     )
     (pin "1" (uuid 420b6584-348c-4c94-814d-7c6e56c78ab2))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "#PWR01") (unit 1)
         )
@@ -5836,7 +5836,7 @@
     (pin "5" (uuid 02b2ff42-0922-4c38-a412-1376ee3f0a4f))
     (pin "6" (uuid f9ec6c3e-c2fc-4dfd-80c6-ef0e59be9ab7))
     (instances
-      (project "SeniorDesign"
+      (project "SeniorDesign_BASE_1059"
         (path "/24e33b4c-59d4-4763-9563-27915517cfab"
           (reference "J5") (unit 1)
         )
