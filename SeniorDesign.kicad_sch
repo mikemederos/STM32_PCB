@@ -4722,6 +4722,32 @@
     )
   )
 
+  (symbol (lib_id "Device:C") (at 109.22 157.48 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 60c3f400-42b5-464e-88dc-30ffb0d42697)
+    (property "Reference" "C25" (at 113.03 156.21 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "C" (at 113.03 158.75 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 110.1852 161.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 109.22 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid afd0438c-1ef9-48a3-8030-e2a5020da682))
+    (pin "2" (uuid c927e840-9617-47a0-8800-667c35d846e6))
+    (instances
+      (project "SeniorDesign"
+        (path "/24e33b4c-59d4-4763-9563-27915517cfab"
+          (reference "C25") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:R") (at 242.57 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6401b4f1-4753-4cb4-9519-434b3886eccb)
