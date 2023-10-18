@@ -4156,6 +4156,32 @@
     )
   )
 
+  (symbol (lib_id "Device:R") (at 102.87 153.67 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 2a8e7d36-83f3-4c9f-8693-d60e13259a44)
+    (property "Reference" "R8" (at 105.41 152.4 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "R" (at 105.41 154.94 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 101.092 153.67 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 102.87 153.67 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2a971437-27e7-4cf8-93cf-8adbaccfd96a))
+    (pin "2" (uuid 275d5097-0fef-41cc-a4f0-ec69fc3dff6b))
+    (instances
+      (project "SeniorDesign"
+        (path "/24e33b4c-59d4-4763-9563-27915517cfab"
+          (reference "R8") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+3V3") (at 114.3 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2b2de2f2-5099-4786-b86b-4f9107e5a40c)
